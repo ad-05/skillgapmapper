@@ -1,6 +1,5 @@
 # 🎯 AI-Based Skill Gap → Career Mapper
 
-> **Academic Project** | Muskan Choudhary (RA2311051010038) & Anushka Das (RA2312703010025)
 
 A full-stack AI-powered web application that analyzes a student's skill profile, compares it against industry-required skills using **Cosine Similarity (scikit-learn)**, and provides personalized career readiness scores, skill gap identification, and AI-driven recommendations via **Claude AI**.
 
@@ -214,7 +213,3 @@ const BASE = "https://your-app.onrender.com";
 
 ---
 
-## 👥 Authors
-
-- **Muskan Choudhary** — RA2311051010038
-- **Anushka Das** — RA2312703010025
