@@ -1,0 +1,7 @@
+role_name,icon,color,Python,JavaScript,React,Node.js,SQL,REST APIs,Git,CSS,TypeScript,Docker,Machine Learning,Statistics,Data Visualization,Pandas,Deep Learning,Feature Engineering,Big Data,Kubernetes,Linux,CI/CD,AWS,Terraform,Networking,Monitoring,Ethical Hacking,Cryptography,Incident Response,SIEM Tools,Risk Assessment,Firewalls,Compliance,TensorFlow/PyTorch,Mathematics,Data Processing,MLOps,Cloud Platforms,Product Strategy,Agile/Scrum,Data Analysis,Communication,User Research,Roadmapping,Stakeholder Management,Market Research,Leadership
+Full Stack Developer,FSD,#6C63FF,6,9,8,8,7,8,7,7,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,DS,#FF6584,9,0,0,0,7,0,5,0,0,0,9,8,7,8,7,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,0,0,0,0,7,0,0,0,0,0,0
+DevOps Engineer,DVE,#43C6AC,5,0,0,0,0,0,8,0,0,9,0,0,0,0,0,0,0,8,9,8,8,7,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cybersecurity Analyst,CSA,#F7971E,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,9,0,8,8,7,7,8,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AI/ML Engineer,AML,#a855f7,9,0,0,0,0,7,7,0,0,0,9,8,0,0,9,0,0,0,0,0,0,0,0,0,9,8,7,0,0,0,0,8,8,7,6,0,0,0,0,0,0,0,0,0,0
+Product Manager,PM,#ec4899,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,8,7,9,8,8,8,7,8
