@@ -1084,9 +1084,10 @@ def root():
 # ENTRY POINT
 # ─────────────────────────────────────────────────────────
 
+init_db()
+
 if __name__ == "__main__":
     print("\n🎯  SkillMapper AI — Backend starting...")
-    init_db()
     print("✅  Database ready")
     print("🚀  API: http://localhost:5000")
     print("👤  Admin: admin@skillmapper.com / admin123\n")
